@@ -1,0 +1,4 @@
+- `/bands` >> GET all, returns all bands array
+- `/bands` >> POST all, creates new band record with name field
+- `/bands/:band_id` >> GET, returns band record by id
+- `/bands/:band_id` >> PUT, updates single field name
